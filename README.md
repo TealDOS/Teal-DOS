@@ -5,7 +5,7 @@
 <h1 align="center">TealDOS</h1>
 <p align="center"><strong>Breathing life into old machines.</strong></p>
 <p align="center">
-  🚀 Fast &middot; 🧊 Lightweight &middot; 💻 Windows-like UI &middot; 🔐 Open & Secure
+  🚀 Fast &middot; 🧊 Lightweight &middot; 💻 Friendly UI &middot; 🔐 Open & Secure
 </p>
 
 ---
