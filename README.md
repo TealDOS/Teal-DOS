@@ -48,4 +48,10 @@ Check out our issues, submit pull requests, or join the discussion.
 
 ---
 
-💙 *TealDOS is made with love (and a little bit of C++) by volunteers who believe in second chances—for computers and code alike.*
+---
+
+## 🏢 About Solantisa
+
+TealDOS is proudly developed by **Solantisa** — an independent team founded in 2022. Solantisa creates open-source projects to revive old hardware and offer modern, lightweight digital experiences for everyone.
+
+🌐 [Visit Solantisa](https://solantisa.github.io)
